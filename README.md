@@ -10,7 +10,17 @@
 
 <img align="right" width="310px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 
-🔭 I’m currently working on Portfolio project<br><br>🌱 I’m currently learning Redux<br><br>👯 I’m looking to collaborate on Instagram<br><br>👨‍💻 All of my projects are available at (very soon)<br><br>💬 Ask me about Frontend web development<br><br>📫 How to reach me samidshad@gmail.com
+🔭 I’m currently working on [Portfolio project](https://samidshad.github.io/lastTest/)
+
+🌱 I’m currently learning [Redux](https://redux.js.org/)
+
+👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/)
+
+👨‍💻 All of my projects are available (very soon)
+
+💬 Ask me about Frontend web development
+
+📫 How to reach me [samidshad@gmail.com](mailto:samidshad@gmail.com)
 
 <h3 align="left">🌐 My Socials:</h3>
 
