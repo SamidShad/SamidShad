@@ -36,8 +36,13 @@
 
 <h1>📊 My stats </h3>
 
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=samidshad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=samidshad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samidshad&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samidshad&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+</div>
 
 ---
