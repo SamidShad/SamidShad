@@ -8,19 +8,19 @@
 
 ---
 
-<img align="right" width="350px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+<img align="right" width="330px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 
-- 🔭 I’m currently working on [Portfolio project](https://samidshad.github.io/lastTest/)
+</> 🔭 I’m currently working on [Portfolio project](https://samidshad.github.io/lastTest/)
 
-- 🌱 I’m currently learning **Redux**
+</> 🌱 I’m currently learning **Redux**
 
-- 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/samidshad/)
+</> 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/samidshad/)
 
-- 👨‍💻 All of my projects are available at (very soon)
+</> 👨‍💻 All of my projects are available at (very soon)
 
-- 💬 Ask me about **Frontend web development**
+</> 💬 Ask me about **Frontend web development**
 
-- 📫 How to reach me **samidshad@gmail.com**
+</> 📫 How to reach me **samidshad@gmail.com**
 
 <h3 align="left">🌐 My Socials:</h3>
 
