@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning [Redux](https://redux.js.org/)
 
-👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/)
+👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/samidshad/)
 
 👨‍💻 All of my projects are available (very soon)
 
