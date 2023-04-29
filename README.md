@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Samid Shad</h1>
 <h3 align="center">Enthusiastic 16 y/o frontend web developer from Bangladesh 🇧🇩</h3>
 
-<p align="center">Hey, I'm a frontend web developer and I believe I can offer my skills to help you out. I'm experienced with popular frontend frameworks like React, which can help create dynamic and responsive web applications. Whether you need a new website, help with an existing one, or just some guidance on web development, I'm here to help. I'm passionate about creating websites that are easy to use and visually appealing, and I'd love to work with you to achieve that. If you have a project in mind or any questions, feel free to reach out and let's see how we can work together!</p>
+<p align="justify">Hey, I'm a frontend web developer and I believe I can offer my skills to help you out. I'm experienced with popular frontend frameworks like React, which can help create dynamic and responsive web applications. Whether you need a new website, help with an existing one, or just some guidance on web development, I'm here to help. I'm passionate about creating websites that are easy to use and visually appealing, and I'd love to work with you to achieve that. If you have a project in mind or any questions, feel free to reach out and let's see how we can work together!</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samidshad&label=Profile%20views&color=0e75b6&style=flat" alt="samidshad" /> </p>
 
-<img align="right" width="400px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+<img align="right" width="350px" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
 
 <p align="left"> <a href="https://twitter.com/samidshad" target="blank"><img src="https://img.shields.io/twitter/follow/samidshad?logo=twitter&style=for-the-badge" alt="samidshad" /></a> </p>
 
