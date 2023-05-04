@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on [Portfolio project](https://bose-head-phone.netlify.app/)
 
-🌱 I’m currently learning [Redux](https://redux.js.org/)
+🌱 I’m currently learning [Firebase](https://firebase.com/)
 
 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/samidshad/)
 
