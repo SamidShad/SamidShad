@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/297085169/aee2a480-7e7e-11eb-9f34-aa943f1978ea)
 <h1 align="center">Hi 👋, I'm Samid Shad</h1>
 <h3 align="center">Enthusiastic 16 y/o frontend web developer from Bangladesh 🇧🇩</h3>
-s
+
 <p align="justify">Hey, I'm a frontend web developer and I believe I can offer my skills to help you out. I'm experienced with popular frontend frameworks like React, which can help create dynamic and responsive web applications. Whether you need a new website, help with an existing one, or just some guidance on web development, I'm here to help. I'm passionate about creating websites that are easy to use and visually appealing, and I'd love to work with you to achieve that. If you have a project in mind or any questions, feel free to reach out and let's see how we can work together!</p>
 
 [![](https://visitcount.itsvg.in/api?id=samidshad&icon=0&color=12)](https://visitcount.itsvg.in)
