@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/297085169/aee2a480-7e7e-11eb-9f34-aa943f1978ea)
+![MasterHead](https://pbs.twimg.com/profile_banners/1515379496232251394/1685730667/1080x360)
 <h1 align="center">Hi 👋, I'm Samid Shad</h1>
 <h3 align="center">Enthusiastic 16 y/o frontend web developer from Bangladesh 🇧🇩</h3>
 
